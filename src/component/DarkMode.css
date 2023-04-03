@@ -1,0 +1,62 @@
+.button1dark{
+    background-color: #ba86fc;
+    color: black; 
+    margin-left: 65%;
+    margin-right: 4.5%;
+    height: 40px;
+    border:2px solid
+  }
+  .button2dark {
+    background-color: #02dac6; 
+    color: black;     
+    height: 40px;
+    border:2px solid
+  }
+  .p1classdark{
+    color: white;
+    width: 39%;
+    height: 70%;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .p1classdark>p{
+    font-size:medium
+  }
+  .p1classdark>p{
+    font-size:medium;
+    
+  }
+  .p2classdark{
+    width: 39%;
+    justify-content: center;
+    color: white;
+    align-items: center;
+  }
+
+  .headingclassdark{
+    width:100%;
+    
+    display: flex;
+    margin-left: 11%;
+   
+  }
+  .headingclassdark>h2{
+    margin-bottom: 40px; 
+   color: #ba86fc;
+ }
+ .maindivdark{
+    background-color: #121212;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    justify-content: center;
+    align-items: center;
+  }
+  .inputfielddark>input{
+    background-color: rgb(64, 61, 61);
+    color: white;   
+  }

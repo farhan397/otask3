@@ -1,0 +1,110 @@
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .button {
+    background-color: #4CAF50; /* Green */
+    border-radius: 5px;
+    color: white;
+    padding: 1px 32px;
+    height: 40px;   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color:#8a4d76;
+    color: black; 
+    margin-left: 65%;
+    margin-right: 4.5%;
+    height: 40px;
+    border:2px solid
+  }
+  
+  .button2 {
+    background-color: #fb7b92; 
+    color: black;    
+    height: 40px;  
+    border:2px solid
+  }
+  
+  .btnclass{
+    display: flex;
+    width: 100%;
+    margin-top: 30px;   
+  }
+  .prclass{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;   
+    margin-bottom: 20px;
+    
+  }
+  .p1class{
+    width: 39%;
+    height: 70%;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;   
+  }  
+  .p1class>p{
+    font-size:medium;
+    color: #aaaba5;
+  }
+  .p2class{
+    width: 39%;
+    justify-content: center;
+    align-items: center;  
+  }
+  .p2class>p{
+    font-size:medium;
+    color: #aaaba5;
+  }
+  .p2classdark{
+    width: 39%;
+    justify-content: center;
+    color: white;
+    align-items: center;
+  }
+  .headingclass{
+    width:100%;  
+    display: flex;
+    margin-left: 11%;
+    margin-bottom: 2%;
+   
+  }
+  .bi-sun{
+    margin-left: 50%;
+    color: #ffc107;
+    margin-top: 1%;
+  }
+  .bi-moon{
+    margin-left: 50%;
+    margin-top: 1%;  
+  }
+  .maindiv{
+    background-color: #eff0ea;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+  .inputfield>input{
+    background-color: white;
+    color:black;   
+  }
+  
