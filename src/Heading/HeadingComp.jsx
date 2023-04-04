@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FaSun, FaMoon } from "react-icons/fa";
-import "./LightMode.css";
-import "./DarkMode.css";
+// import "./LightMode.css";
+// import "./DarkMode.css";
 
 const HeadingComp = ({ getlightvalue,getdarkvalue}) => {
     const [status, setstatus] = useState(0);
